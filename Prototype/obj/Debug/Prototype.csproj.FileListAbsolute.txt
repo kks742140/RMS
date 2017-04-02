@@ -1,0 +1,107 @@
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.pdb
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\bin\Debug\EntityFramework.dll
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\bin\Debug\EntityFramework.xml
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\bin\Debug\MySql.Data.xml
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.Form1.resources
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.frmBooking.resources
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.frmLogin.resources
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.frmMain.resources
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.frmManager.resources
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.frmOrder.resources
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.frmPay.resources
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.frmPunch.resources
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.panelBkRecord.resources
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.panelBkUpdate.resources
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.panelFoods.resources
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.panelOrderRecord.resources
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.panelOrderDetail.resources
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+C:\Users\KenKwan\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.csproj.GenerateResource.Cache
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\bin\Debug\Prototype.exe.config
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.exe
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.pdb
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\bin\Debug\Prototype.exe
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\bin\Debug\Prototype.pdb
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\bin\Debug\EntityFramework.dll
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\bin\Debug\MySql.Data.dll
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\bin\Debug\EntityFramework.xml
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\bin\Debug\MySql.Data.xml
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.frmBooking.resources
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.frmLogin.resources
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.frmMain.resources
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.frmManager.resources
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.frmOrder.resources
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.frmPay.resources
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.frmPunch.resources
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.panelBkRecord.resources
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.panelBkUpdate.resources
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.panelFoods.resources
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.panelOrderRecord.resources
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.panelOrderDetail.resources
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.csproj.GenerateResource.Cache
+D:\Moodle\FYP\Prototype(BackUp)\Prototype\obj\Debug\Prototype.MyAttendance.resources
+D:\Moodle\FYP\Prototype\Prototype\bin\Debug\Prototype.exe.config
+D:\Moodle\FYP\Prototype\Prototype\bin\Debug\Prototype.exe
+D:\Moodle\FYP\Prototype\Prototype\bin\Debug\Prototype.pdb
+D:\Moodle\FYP\Prototype\Prototype\bin\Debug\EntityFramework.dll
+D:\Moodle\FYP\Prototype\Prototype\bin\Debug\MySql.Data.dll
+D:\Moodle\FYP\Prototype\Prototype\bin\Debug\EntityFramework.xml
+D:\Moodle\FYP\Prototype\Prototype\bin\Debug\MySql.Data.xml
+D:\Moodle\FYP\Prototype\Prototype\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.frmBooking.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.frmLogin.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.frmMain.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.frmManager.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.frmOrder.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.frmPay.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.frmPunch.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.MyAttendance.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.panelBkRecord.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.panelBkUpdate.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.panelFoods.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.panelOrderRecord.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.panelOrderDetail.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.csproj.GenerateResource.Cache
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.exe
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.pdb
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.panelFoodPay.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.panelPayDetail.resources
+D:\Moodle\FYP\Prototype\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\bin\Debug\Prototype.exe.config
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.exe
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.pdb
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\bin\Debug\Prototype.exe
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\bin\Debug\Prototype.pdb
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\bin\Debug\EntityFramework.dll
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\bin\Debug\MySql.Data.dll
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\bin\Debug\EntityFramework.xml
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\bin\Debug\MySql.Data.xml
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.frmBooking.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.frmLogin.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.frmMain.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.frmManager.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.frmOrder.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.frmPay.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.frmPunch.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.MyAttendance.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.panelBkRecord.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.panelBkUpdate.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.panelFoodPay.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.panelFoods.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.panelOrderRecord.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.panelOrderDetail.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.panelPayDetail.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+D:\Moodle\FYP\Prototype (Backup0905\Prototype\obj\Debug\Prototype.csproj.GenerateResource.Cache
